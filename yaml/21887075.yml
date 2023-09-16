@@ -1,0 +1,32 @@
+---
+id: 21887075
+name: Endless Engine Argyro System
+type: Spell Card
+frameType: spell
+desc: 'Send 1 "Therion" card from your Deck to the GY. If this card is in your GY:
+  You can target 1 "Therion" card in your GY; add this card or that card to your hand,
+  and place the other on the bottom of the Deck. You can only use 1 "Endless Engine
+  Argyro System" effect per turn, and only once that turn.'
+race: Normal
+card_sets:
+- set_name: '25th Anniversary Tin: Dueling Heroes Mega Pack'
+  set_code: MP23-EN092
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '0'
+- set_name: Dimension Force
+  set_code: DIFO-EN054
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '3.08'
+card_images:
+- id: 21887075
+  image_url: https://images.ygoprodeck.com/images/cards/21887075.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/21887075.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/21887075.jpg
+card_prices:
+- cardmarket_price: '0.13'
+  tcgplayer_price: '0.20'
+  ebay_price: '1.48'
+  amazon_price: '1.20'
+  coolstuffinc_price: '0.79'

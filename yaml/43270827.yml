@@ -1,0 +1,34 @@
+---
+id: 43270827
+name: Therion Cross
+type: Trap Card
+frameType: trap
+desc: "When your opponent activates a monster effect, while you control a \"Therion\"
+  monster: You can activate 1 of these effects;\r\n● Negate that effect.\r\n● Banish
+  that monster.\r\nIf you have \"Endless Engine Argyro System\" in your GY at activation,
+  you can activate both effects (at resolution, negate, then banish). You can only
+  activate 1 \"Therion Cross\" per turn."
+race: Normal
+archetype: Therion
+card_sets:
+- set_name: '25th Anniversary Tin: Dueling Heroes Mega Pack'
+  set_code: MP23-EN100
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '0'
+- set_name: Dimension Force
+  set_code: DIFO-EN070
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '1.13'
+card_images:
+- id: 43270827
+  image_url: https://images.ygoprodeck.com/images/cards/43270827.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/43270827.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/43270827.jpg
+card_prices:
+- cardmarket_price: '0.07'
+  tcgplayer_price: '0.16'
+  ebay_price: '0.99'
+  amazon_price: '0.70'
+  coolstuffinc_price: '0.39'
